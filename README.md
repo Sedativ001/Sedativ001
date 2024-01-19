@@ -1,35 +1,41 @@
-# Olá, eu sou Sedativ! 👋
+# Hello, I'm Sedativ! 👋
 
 ![wink-anime](https://github.com/Sedativ001/Sedativ001/assets/115892186/fe39bc2b-a999-41ec-8bc8-ed2a020a1c1e)
 
+Just a beginner programmer with a few projects.
 
-Sou apenas um programador iniciante com alguns projetos 
+## 🔧 Technologies and Tools
 
-## 🔧 Tecnologias e Ferramentas
+- Languages:
+  - <img src="https://media.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" width="24"> Learning Python
+  - <img src="https://media.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" width="24"> Learning C#
+  - <img src="https://media.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" width="24"> Learning Web
+- Tools:
+  - ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+  - ![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-- Linguagens:
-- <img src="https://media.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" width="24"> Apredendo Python
-- <img src="https://media.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" width="24"> Aprendendo Csharp
-- <img src="https://media.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" width="24"> Aprendendo Web
-- Ferramentas:
-- ![Plataforma](https://img.shields.io/badge/Plataforma-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-- ![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+## 🌱 I'm Learning
 
-## 🌱 Estou Aprendendo
+As I mentioned before, I'm learning Python for both professional purposes and potential personal projects, even though I intend to explore other languages in the future. Additionally, I'm dedicating time to learning C# exclusively for game development, using engines like Unity, Godot, among others. I'm also deepening my knowledge in web development, driven by professional reasons, much like I do with Python.
 
-Como mencionei anteriormente, estou aprendendo Python tanto para fins profissionais quanto para possíveis projetos pessoais, mesmo que eu tenha a intenção de explorar outras linguagens no futuro. Além disso, estou me dedicando ao aprendizado de C# exclusivamente para o desenvolvimento de jogos, utilizando engines como Unity, Godot, entre outras. Também estou aprofundando meus conhecimentos em desenvolvimento web, impulsionado por razões profissionais, da mesma forma que faço com Python.
-Atualmente, estou explorando diversas áreas dentro da computação e ainda não defini claramente qual carreira seguir. Por isso, estou ampliando meus conhecimentos em diferentes campos, gradualmente descobrindo qual deles desejo abraçar profissionalmente. Mesmo sendo um completo iniciante na área
+Currently, I'm exploring various areas within the field of computer science, and I haven't yet clearly defined which career path to pursue. Therefore, I'm broadening my knowledge in different areas, gradually discovering which one I want to embrace professionally. Even though I'm a complete beginner in the field.
 
-## 📫 Como Me Encontrar
+## 📫 How to Reach Me
 
-<img src="https://media1.tenor.com/m/CAaRcm53x_oAAAAC/discord-discord-logo.gif" width="30"> Meu discord: thkxs
-Fique à vontade para entrar no meu server do discord! Ainda está no íncio e não tem muita gente.
-https://discord.gg/TQEM7NhFvz
-Ficarei muito feliz em te ver lá!
+<img src="https://media1.tenor.com/m/CAaRcm53x_oAAAAC/discord-discord-logo.gif" width="30"> My Discord: thkxs
+
+Feel free to join my Discord server! It's still in the early stages and doesn't have many people yet.
+
+[https://discord.gg/TQEM7NhFvz](https://discord.gg/TQEM7NhFvz)
+
+I'd be happy to see you there!
 
 <img src="https://media.tenor.com/UeO1seDskN8AAAAi/yaay-anime-girl-happy.gif" width="50">
 
-## 💬 Sobre Mim
-Nada a declarar além do que eu ja disse aqui.
+## 💬 About Me
 
-Agradeço por visitar meu perfil! 😄
+Nothing more to declare beyond what I've already mentioned here.
+
+Thanks for visiting my profile! 😄
+
+<img src="https://media1.tenor.com/m/IY9Hmz9B-vgAAAAC/kiss-anime.gif">
